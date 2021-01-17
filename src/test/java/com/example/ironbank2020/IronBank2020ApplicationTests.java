@@ -11,7 +11,7 @@ import org.springframework.web.client.RestTemplate;
 
 @SpringBootTest(webEnvironment = SpringBootTest.WebEnvironment.DEFINED_PORT)
 class IronBank2020ApplicationTests {
- 
+
     @Test
     void contextLoads() {
 

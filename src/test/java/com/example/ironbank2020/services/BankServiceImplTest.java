@@ -1,7 +1,8 @@
 package com.example.ironbank2020.services;
 
 import com.example.ironbank2020.dto.Loan;
-import com.example.ironbank2020.exceptions.NotEnoughMoneyException;
+
+import com.ironbank.ironbankstarter.exceptions.NotEnoughMoneyException;
 import org.junit.Assert;
 import org.junit.Test;
 import org.junit.runner.RunWith;
